@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+cd "$(dirname "$0")"/../.. || exit
+
+cd _ && zola serve --force --output-dir /tmp/classroom
+
