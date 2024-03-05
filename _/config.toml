@@ -34,7 +34,7 @@ anchors = "on"
 name = "Recai Oktaş"
 id = "roktas"
 bio = "Muhayyer Yazılar"
-avatar = "images/roktas.png"
+avatar = "/images/roktas.png"
 links = [
     { name = "Github", icon = "github", url = "https://github.com/roktas" },
 ]
@@ -53,7 +53,7 @@ sections = [
 blog_section_path = "/1"
 blog_section_paths = ["/0", "/1", "/9"]
 
-nav_separator = "»"
+nav_separator = ""
 nav_wrapper_left = "{"
 nav_wrapper_right = "} ;"
 nav_wrapper_separator = ","
