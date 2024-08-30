@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
+	<title>Genel</title>
+	<subtitle>Teknik içerikli olmayan yazılar</subtitle>
+	<link href="https://roktas.dev/0/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://roktas.dev/0/"/>
+	<updated>2011-07-07T00:00:00+00:00</updated>
+	<id>https://roktas.dev/0/feed.xml</id>
+	<entry xml:lang="tr">
+		<title>Hmm</title>
+		<published>2011-07-07T00:00:00+00:00</published>
+		<updated>2011-07-07T00:00:00+00:00</updated>
+		<link href="https://roktas.dev/0/hmm/" type="text/html"/>
+		<id>https://roktas.dev/0/hmm/</id>
+		<content type="html">&lt;p&gt;Bugün farklı yerlerde bir kaç şey düşündüm. Evde: &amp;quot;Oda niye bu kadar dağınık?&amp;quot;, arabada: &amp;quot;Yürürken de bu kadar dikkatli
+misin?&amp;quot;  Zihin gürültüsü mü desek bunlara, &amp;quot;sorgulama&amp;quot; mı?  (bu da üçüncü soru oldu)  Adı her neyse kemikleşmiş bir
+alışkanlık bu. Anormal vehimlerden, kuşkulardan bahsetmiyorum, yukarıdaki soruların hiç birinde &amp;quot;kuşku&amp;quot; yok, merak var.
+Kesif bir içe bakışı gizleyen masum (!) sorular...&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;quot;Oda niye dağınık?&amp;quot;  Misal, bazı nefret hallerinin gizli bir muhabbete işaret etmesi gibi, bu dağınıklık da gizli bir
+düzen idealine işaret ediyor. Buna benzer bir cevap verdim. Sonra kendimi bir roman kahramanı olarak düşledim.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bay R odasında nicedir gözlediği dağınıklığı ortadan kaldırmak yönünde hiçbir gayret sarfetmemesinin nedenleri
+üzerinde düşünürken kahvaltısını tamamlamak üzereydi. Bunun keyifli bir soru olduğunu hissetti. Daima ihtiyaçtan fazla
+miktarda demlediği taze çaydan bir bardak daha alırken &amp;quot;mükemmeliyet iştiyakı&amp;quot; diye mırıldandı. Odanın entropisi dahil
+pek çok şeyi ideal (ve tanım olarak mükemmel) bir geleceğe ertelediğini farketti.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&amp;quot;Yürürken de bu kadar dikkatli misin?&amp;quot;  Bu kadar değil ama evet, dikkatliyim. Kalabalıkları sevmiyorum; insan sevmediği
+yerlerde dikkatli oluyor. Bu cevap kesmedi fakat. Yine eski bir alışkanlık... Bir probleme önerilen ilk çözüm yeterli
+bulunmadığında yeni çözümlerin arayışına girişmeden önce sorunun yasallığını veya nasıl diyelim, bizim gençlerden
+birinin tabiriyle &amp;quot;sorulabilitesi&amp;quot;ni sorgulamak lazım. Zira çözüm arayışıyla ilerleyeceğiniz yorucu güzergaha çıkmadan
+önce yeterli motivasyonunuz olmalı. Yani, yürürken de bu kadar dikkatli olup olmadığımı neden soruyorum?&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Gözü devir göstergesinde, kulağı motor sesindeyken tüm duyu organlarının bu olağan sürüş eylemine odaklanmış
+olmasından rahatsız oldu. Bu rahatsızlığı bir nebze gidermek için yürürken de bu kadar dikkatli olup olmadığını sordu
+kendine. Yolda yürümek de araç sürmek gibi öteki dünyayla temas kurma zorunluluğundan kaynaklanan eylemler olduğuna
+göre: &amp;quot;öteki tehlikelidir, evet yürürken de dikkatliyim&amp;quot; diye düşündü. Sonra, direksiyondaki acemiliğini böyle küçük
+bir zihin oyunuyla bastırmanın verdiği geçici bir öz güvenle gaza bastı. Beşinci vites... İşte en tepede.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Önümüz hafta izne ayrılıyorum. Tatilde ne yapacağız?  Edebiyat parçalıyoruz ya, yapmaya başladık bile. Kitlelerin (!)
+çağrısına kulak verdim, okumak yerine yazmak istiyorum biraz. &amp;quot;Üstadlar okumazlar, yazarlar!&amp;quot;  Muazzez kaarilerime
+duyurulur, iki dilde yazmaya niyetliyim: Türkçe ve Go. Go&#x27;da nesne yönelimli programlama çok lezzetli bir konu olarak
+duruyor. Güz yarıyılı &amp;quot;Programlama Dilleri&amp;quot; dersinde güzel servis edilir bu.&lt;&#x2F;p&gt;
+&lt;p&gt;Ama bu ortamda siparişler daima &amp;quot;ortaya bir karışık&amp;quot; türünde olacak. Masamda bir kitap var: Strunk ve White&#x27;tan &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;http:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;The_Elements_of_Style&quot;&gt;&amp;quot;The
+Elements of Style&amp;quot;&lt;&#x2F;a&gt;. İngilizce&#x27;de doğru ve güzel yazmanın
+kurallarını 80 sayfada özetleyen bir klasik (lüzumsuz &amp;quot;traş&amp;quot;tan kaçınan ince kitaplara bayılıyorum, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;http:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;The_C_Programming_Language&quot;&gt;&amp;quot;The C Programming
+Language&amp;quot;&lt;&#x2F;a&gt; bir başka örnek). Arada buna bakıyorum, &amp;quot;okumak
+yerine yaz&amp;quot; kararından şüphe duyarak... Bir ara yol olarak acaba bu kitaptaki kuralları Türkçe&#x27;ye uyarlayarak mı yazsam
+veya doğrudan kitabı Türkçe&#x27;ye uyarlasam?  Hani Can Yücel&#x27;in Şekspir&#x27;in 66&#x27;ncı sonesine uyguladığı asimilasyon gibi...&lt;&#x2F;p&gt;
+&lt;pre class=&quot;z-code&quot;&gt;&lt;code&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Vazgeçtim bu dünyadan tek ölüm paklar beni,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Değmez bu yangın yeri, avuç açmaya değmez.
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Değil mi ki çiğnenmiş inancın en seçkini,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Değil mi ki yoksullar mutluluktan habersiz,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Değil mi ki ayaklar altında insan onuru,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        O kızoğlan kız erdem dağlara kaldırılmış,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Ezilmiş, horgörülmüş el emeği, göz nuru,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Ödlekler geçmiş başa, derken mertlik bozulmuş,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Değil mi ki korkudan dili bağlı sanatın,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Değil mi ki çılgınlık sahip çıkmış düzene,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Doğruya doğru derken eğriye çıkmış adın,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Değil mi ki kötüler kadı olmuş Yemen&amp;#39;e
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Vazgeçtim bu dünyadan, dünyamdan geçtim ama,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Seni yalnız komak var, o koyuyor adama.
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&amp;quot;And captive good attending captain ill&amp;quot;i, &amp;quot;Değil mi ki kötüler kadı olmuş Yemen&#x27;e&amp;quot; satırıyla karşılayan bu çeviriye
+&amp;quot;çeviri&amp;quot; demek haksızlık olur.&lt;&#x2F;p&gt;
+&lt;p&gt;Neyse böyle bir uyarlama ne haddimize, bunu geçelim...&lt;&#x2F;p&gt;
+&lt;p&gt;Evet izne ayrılıyorum. Geçen her gün ormanda yürürken yanından geçtiğimiz bir ağaç gibi. Ağaçlarla ilgilenirken ormanı
+ıskalamaya başladık sanki. Verilerin konsolidasyonu gerekiyor, rutin bir işlem. Bir sonraki güne kadar dükkanı
+kapatırken alınan bir &amp;quot;Z raporu&amp;quot; gibi.&lt;&#x2F;p&gt;
+&lt;p&gt;Ha bir de... Okuma kolajları yapsak mı?  Fikir muhterem kardeşim &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;http:&#x2F;&#x2F;www.facebook.com&#x2F;bsahaf&quot;&gt;Bahtiyar&lt;&#x2F;a&gt;&#x27;dan. Ahmet
+Hamdi Tanpınar&#x27;ın &amp;quot;Huzur&amp;quot;undan iktibaslar yapıyor şu günlerde.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;O gün akşama kadar bekledi. Ertesi gün de... Nuran gelmedi!  Mümtaz artık, O’nun gerçekte var olmadığını, bütün
+yaşadıklarının muhayyilesinin kendisine bir oyunu olduğunu düşünmeye başladı.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Postmodern zamanlar bunlar. Bravo!  Feysbuk böyle kullanılmalı.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
