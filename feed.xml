@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
+	<title>roktas</title>
+	<subtitle>Recai Oktaş</subtitle>
+	<link href="https://roktas.dev/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://roktas.dev"/>
+	<updated>2024-02-04T00:00:00+00:00</updated>
+	<id>https://roktas.dev/feed.xml</id>
+	<entry xml:lang="tr">
+		<title>Gündelik Şeylerin Tasarımı</title>
+		<published>2024-02-04T00:00:00+00:00</published>
+		<updated>2024-02-04T00:00:00+00:00</updated>
+		<link href="https://roktas.dev/9/norman-2017/" type="text/html"/>
+		<id>https://roktas.dev/9/norman-2017/</id>
+		<content type="html">&lt;p&gt;Üniversitelerin özellikle endüstriyel tasarım müfredatlarında yaygın olarak okutulan&#x2F;önerilen şöhretli bir kaynak.
+Tasarım alanında bazı terimler (ör. &lt;em&gt;sağlarlık&lt;&#x2F;em&gt;) ve ilkeler (ör. &lt;em&gt;keşfedilebilirlik&lt;&#x2F;em&gt;) sunması yönüyle kıymeti haiz. Bu
+alana ilgi duyan bir  kişinin okumazsa ayıp edeceği &lt;em&gt;klasik&lt;&#x2F;em&gt; bir kitap. &amp;quot;Klasik&amp;quot; kelimesini bir parça olumsuz bir
+özellik olarak, &amp;quot;tarihsel  değeri daha fazla&amp;quot; anlamında kullandım. Bugüne kadar pek çok okumayla ortaya çıkan &amp;quot;kulaktan
+dolma&amp;quot; tasarım bilgimi biraz daha kitabî yapmakla birlikte kitaptan çok yeni şeyler öğrendiğimi söyleyemem. Bu &amp;quot;kulaktan
+dolma&amp;quot;  bilgilerin kaynağı izlendiğinde yollar bir noktada bu kitaba ulaşacaktır (&amp;quot;tarihsel değer&amp;quot;), fakat (ispat
+etmeden fütursuzca iddia  edeceğim bir yargı olarak ifade etmem gerekirse) tasarım sahasında &lt;strong&gt;spesifik alt alanlarda&lt;&#x2F;strong&gt;
+daha değerli kitapların da yazıldığını düşünüyorum. Kitap yer yer dağınık ve fazla tekrar içeriyor. Aynı içerik 300
+küsur sayfa yerine çok daha kısa ve açık şekilde sunulabilirdi.&lt;&#x2F;p&gt;
+&lt;p&gt;Kitabı bazen İngilizce orijinaliyle karşılaştırarak Türkçe çevirisinden okudum. Çeviriyi çok başarılı buldum. Örneğin
+&amp;quot;Affordance&amp;quot; karşılığı olarak &amp;quot;Sağlarlık&amp;quot; çok yerinde bir çeviri.&lt;&#x2F;p&gt;
+&lt;p&gt;Kitaptan bana kalanları dağınık halde özetleyeyim...&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Tasarım insan odaklı olmalı; insanların ihtiyaç ve kabiliyetleri dikkate alınmalı&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;İnsanlar hata yapar. Tasarım daima hatayı gözetmeli ve minimize etmeli. Özellikle yazılım ve donanım ürünlerinde hata
+iletileri azaltılmalı veya hata iletisinde kullanıcıyı yönlendirici bilgilendirme yapılmalı.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Asla sana verilen problemi (verildiği haliyle) çözmeye çalışma, kök neden çözümlemesi yap ve doğru problemi bulmaya
+çalış. (Bu aşamada başvurulabilecek bir metodoloji İngiliz Tasarım Konsülü tarafından oluşturulan &lt;em&gt;Double-diamond
+design process model&lt;&#x2F;em&gt;, yani &amp;quot;Çift elmas tasarım modeli&amp;quot;.)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Bireye odaklanmak yerine etkinliğe odaklan (&lt;em&gt;activity-centered design&lt;&#x2F;em&gt;).&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Bir tasarım, problemin doğasına uygun olarak karmaşıklık (&lt;em&gt;complexity&lt;&#x2F;em&gt;) içerebilir ama karışıklık (&lt;em&gt;confusion&lt;&#x2F;em&gt;)
+içeremez. Karmaşıklıkla mücadele için kavramsal modellerin gücünden yararlan. Karışıklığı ise mutlaka önle.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;7 temel tasarım ilkesi:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Keşfedilebilirlik: Olası eylemler veya ürün&#x2F;servisin durumu keşfedilebilmeli&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Geri bildirim: Eylem sonuçları veya ürün&#x2F;servisin durumu hakkında yeterli (aşırı değil) geri bildirim sağlanmalı&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Kavramsal model: Deneyimsizlik veya sorun anında kullanıcıya yardımcı olacak bir kavramsal model sunulmalı&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Sağlarlıklar: Uygun ve tercihen algılanabilir sağlarlıklar sunulmalı&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;İmleyenler: Uygun ve yanıltıcı olmayan imleyenler sunulmalı&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Eşlemeler: Denetleyiciler ve ilişkili olduğu eylemler uzamsal ve zamansal olarak eşleştirilebilmeli&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Kısıtlayıcılar: Hataya yol açan eylemleri önleyen&#x2F;zorlaştıran kısıtlayıcılar sunulmalı&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Kitapta (tamamen kitaba özgü olmasa da) aşağıdaki yararlı terimler tanımlanmış:&lt;&#x2F;p&gt;
+&lt;p&gt;Kavramsal model (&lt;em&gt;Conceptual model&lt;&#x2F;em&gt;)
+~ Ürünün&#x2F;servisin mekanizmasına, nasıl çalıştığına ilişkin zihinsel model. Keşfedilebilirliğe katkı sunuyor; olası bir
+hatanın çözülebilmesini sağlıyor.&lt;&#x2F;p&gt;
+&lt;p&gt;Sağlarlık (&lt;em&gt;Affordance&lt;&#x2F;em&gt;):
+~ Bir fiziksel nesneyle (bu nesneyle etkileşime giren) bir ajan (insan, hayvan, hatta robot)  arasındaki ilişkiye
+atıfta bulunan bir terim. Ör. buton &amp;quot;basma&amp;quot;, sandalye &amp;quot;oturma&amp;quot;, cam bardak &amp;quot;şeffaflık&amp;quot; sağlarlıkları  sunar (son örnek
+sağlarlığın bir nesne özelliği olarak anlaşılmasına yol açabilir; bu doğru değil, sağlarlık bir özellik  değil bir
+ilişkidir). Bazı sağlarlıklar gizlidir. Örneğin gizli bir &amp;quot;drop-down&amp;quot; menü &amp;quot;tıklama&amp;quot; sağlarlığı sunar, fakat ilk bakışta
+farkedilemeyebilecek bu sağlarlığın algılanması için fare imleci nesnenin üzerinde gezdirilmeli.&lt;&#x2F;p&gt;
+&lt;p&gt;İmleyen (&lt;em&gt;Signifier&lt;&#x2F;em&gt;):
+~ Sağlarlığın gizli veya yanıltıcı olduğu durumlarda nesneye bir imleyen iliştirilir. Sağlarlık tek başına yeterli
+olduğunda ayrıca imleyen kullanmak gerekmez, fakat yerinde imleyen kullanımı tasarımda çok önemli.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="tr">
+		<title>Görme Biçimleri</title>
+		<published>2024-01-16T00:00:00+00:00</published>
+		<updated>2024-01-16T00:00:00+00:00</updated>
+		<link href="https://roktas.dev/9/berger-2023/" type="text/html"/>
+		<id>https://roktas.dev/9/berger-2023/</id>
+		<content type="html">&lt;p&gt;Kitabın &amp;quot;görme biçimleri&amp;quot;ni deneyimleyebileceğiniz renkli resimler de içeren İngilizce orijinali &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.ways-of-seeing.com&#x2F;&quot;&gt;herkese
+açık&lt;&#x2F;a&gt;. Edebi niteliği yüksek eserde bazen kesifleşmekle birlikte sadeliğini genel
+olarak koruyan fasih bir İngilizce kullanılmış. Yazar özellikle kelime seçimlerinde çok titiz. Türkçe çevirinin kalitesi
+hakkında kararsızım. Özgün dilin kesifleştiği yerlerde çeviri bir parça mekanikleşmiş ve anlamayı zorlaştırıyor. Öte
+yandan bazı cümleler &amp;quot;daha iyi bir alternatif bulamıyorum&amp;quot;u düşündürecek kadar yerli yerinde. Kitabın mutad bir
+telif&#x2F;çeviri tadı farklılığı yaşattığını söyleyebilirim.&lt;&#x2F;p&gt;
+&lt;p&gt;Kitabın kategorisini sanat tarihi&#x2F;eleştirisi ile sınırlamamak lazım. &amp;quot;Edebi nitelikli bir sanat ve toplum eleştirisi&amp;quot;
+kısmen uygun bir tanımlama olarak akla geliyor. Batı toplumuna ilişkin bu eleştiri Rönesanstan başlayıp kapitalizmin
+yaygınlaştığı zamanlara ulaşıyor. Yazarın siyasi geçmişi ve duruşunun bu eleştirilerde etken olduğu kesin, fakat bu
+durum eleştirileri subjektif kılmıyor.&lt;&#x2F;p&gt;
+&lt;p&gt;Bu kitabı bir kaç kelimeyle özetlemem gerekseydi halihazırdaki başlıktan daha iyi kelimeler bulamazdım: &amp;quot;Ways of
+Seeing&#x2F;Görme Biçimleri&amp;quot; (çevirisi de çok yerinde). Eser aslında bir BBC belgesinin kitaplaştırılmış hali.
+&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=q8IrtwUuIJM&quot;&gt;Belgesel&lt;&#x2F;a&gt; mutlaka izlenmeli. Akış kurgusu, cümle vurguları ve
+görsel&#x2F;işitsel zenginliğiyle kitabı pek çok yerde tefsir ediyor. Kitap hazmedilmesi yer yer zor pasajlar içeriyor. Bu
+nedenle ara vererek belki bir kaç kere okunmasında yarar var.&lt;&#x2F;p&gt;
+&lt;p&gt;Kitaptaki ana fikirleri aşırı basitleştirilmiş gevşek bir dille aşağıda özetliyorum. Kitap gerçek gücünü bu yalın
+önermelerden ziyade bizi bu önermelere ulaştıran sorgulayıcı tavırda buluyor. Frans Hals&#x27;ın ilk bölümde sunulan resmi
+hakkında bir uzmanın yaptığı fazlasıyla mistik yorumu eleştirmesi bu tavra bir örnek olarak verilebilir. Belgeselde
+Caravaggio&#x27;nun &amp;quot;Supper at Emmaus&amp;quot;u üzerinde çocukların katılımıyla yapılan bir &amp;quot;görme&amp;quot; etkinliği de bir başka çarpıcı
+örnek (bu inceleme kitapta yok).&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Görme biçimlerimiz mevcut fikir ve inançlarımızın, yaşadığımız toplum ve tarih kesitinin etkisi altındadır.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Görme biçimlerimiz imgeye (doğal veya yapay yolla) eşlik eden sözcüklerin, seslerin (müzik), çevresindeki diğer
+imgelerin ve imgenin sergilendiği ortamın etkisi altındadır.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Görme biçimlerimiz imgenin bütünü yerine bir kesitinin kullanılmasıyla veya imgeye bir tür hareket verilmesiyle önemli
+ölçüde değişebilir.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Klasik resimlerin kolayca çoğaltılarak (reprodüksiyonlar) doğal ortamlarından uzaklaştırılması resimlerdeki imgelerin
+anlamlarında değişime yol açar. Eskiden seyirci imgeye giderken çağımızda imge bize geliyor.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Rönesans ile başlayan klasik &amp;quot;yağlı boya resim&amp;quot; geleneği kabaca 1400-1900 yılları arasında hüküm sürerek sonlanmıştır.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Seçkin, soylu veya zengin kişiler için ısmarlama usülde yapılmış klasik &amp;quot;yağlı boya&amp;quot; resimlerdeki imgeler çoğunlukla
+ısmarlayanın yani sahibin mülkiyetini, refah seviyesini, toplumsal statüsünü yansıtır. (Bunun bazı istisnaları var,
+örneğin Rembrandt&#x27;ın yaşlılık dönemi oto portresi)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Klasik resimlerdeki kadın imgeleri hemen hemen daima erkek bakış açısıyla kadının &amp;quot;nü&amp;quot; bir obje halinde sunulduğu,
+imgeyi seyreden (ve erkek olduğu varsayılan) kişiye bir tür cinsel sahiplik, güç sağlayan bir anlamı barındırır.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Günümüzde renkli fotoğraflar ve özellikle bu imgelere dayalı olarak kurgulanan reklamlar çağımızın &amp;quot;yağlı boya
+tablo&amp;quot;larıdır. Hatta reklam imgelerinde bazen klasik yağlı boya resim imgelerinden (reklamın hedeflerine uygun
+seçimlerle) yararlanılmıştır.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Çağımızın reklamları (bence sosyal medyadaki resimler de kısmen buna dahil edilebilir) imge alıcısına, sahip olunması
+halinde başkalarının kıskanacağı ve bu sayede kişinin başkaları indinde bir çekicilik kazanacağı bir duygu durumu
+yaşatmaya çalışır. Peki sonuç böyle midir?  Bilakis reklamla avlanarak tüketen kişi pek çok durumda bir şeyler (para)
+kaybeder.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Kitabı okuduktan sonra görme ve genel olarak düşünme biçimlerimizde ne değişiklikler beklenebilir?&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Bir imgeye baktığında ilk duyumsadığınla yetinme, neden böyle olduğunu çözümle. Nelerin, hangi inanç, fikir ve
+deneyimlerin etkisi altında kalıyorsun?&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;İmgenin gerçek anlamı ne olabilir? Simgeleri, imgeye eşlik eden sözcükleri, tarihsel arka planı belirle. Görünenin
+arkasında (hemen bir bakışta) görünmeyenler neler?&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;İmgeler hakkında geliştirdiğin sorgulama alışkanlığını diğer alanlara da uygula. Sana ulaşan bir haber ve yargı...
+Doğru mu?  Doğru veya yanlış olduğunu düşündüren ne? Kanıtlar, izler... Önyargılarını gözden geçir.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="tr">
+		<title>İnsanın Dört Zindanı</title>
+		<published>2024-01-13T00:00:00+00:00</published>
+		<updated>2024-01-13T00:00:00+00:00</updated>
+		<link href="https://roktas.dev/9/seriati-2023/" type="text/html"/>
+		<id>https://roktas.dev/9/seriati-2023/</id>
+		<content type="html">&lt;p&gt;Merhum Ali Şeriati&#x27;nin bir üniversitede yaptığı konuşmadan derlenmiş bu kitabı tek cümle ile özetlemem gerekseydi &amp;quot;İnsan
+olmak üzerine bir kitap&amp;quot; derdim. Kitabı değerlendirirken başlığa takılarak hemen dört zindan ayrımına girmek yerine
+sonda söyleneni başa alarak kitabın ana mesajını vermek isterim. Merhum yazar (hayvana yakın anlamlı) beşer ve (ilahi
+olana yakın anlamlı) insan farkını, insanı insan yapan hususiyetleri açıklarken anahtar kelimeleri veriyor: &amp;quot;ihtiyâr&amp;quot;
+(özgür irade), &amp;quot;aşk&amp;quot; (tasavvuf jargonundaki ilâhî aşk değil), &amp;quot;mantık ötesi&amp;quot; (&amp;quot;mantıklı&amp;quot; ve &amp;quot;mantıksız&amp;quot;a ilave üçüncü
+bir durum olarak) ve hususen &amp;quot;isâr&amp;quot; (başkalarını düşünerek benliğini feda etme). Birden fazla kelime kullanılmış olsa da
+aslında tüm bu kelimeler tek bir töze, insanî töze işaret ediyor. Anahtar kelimeleri bire indirmem gerekseydi seçimim
+&amp;quot;isâr&amp;quot; olurdu. &amp;quot;Başkaları için kendini feda etmek&amp;quot;liğin ne denli büyük bir erdem olduğu ne kadar çok erdemli insan
+tarafından ifade edilmiş? &amp;quot;İsâr&amp;quot;da büyük bir sır var, &amp;quot;Ne için varız, hayatımızın anlamı ne?&amp;quot;yi cevaplayan sır...&lt;&#x2F;p&gt;
+&lt;p&gt;Kişisel olarak kitabın düşünce dünyamda bıraktığı izi yukarıdaki gibi ifade etmek için &amp;quot;dört zindan&amp;quot; ayrımına çok
+ihtiyaç duymadım. Yine de bu zindanları belirtmeden geçmeyelim, özellikle en tehlikeli olan sonuncusunun hatırına:
+Çevre&#x2F;doğa, Tarih, Toplum ve Benlik zindanları. Makul bir günümüz bireyi çaba harcayarak ilk üçünden kurtulabilir ama
+hepimizin tutsağı olduğu &amp;quot;benlik zindanı&amp;quot;ndan kurtuluşun tek çaresi &amp;quot;insan olmak&amp;quot;. Nasıl? Anahtar kelimeler yukarıda,
+ayrıntılar kitapta...&lt;&#x2F;p&gt;
+&lt;p&gt;Kitabın çevirisini zayıf buldum. İşaret yayınlarından çıkmış olan Hüseyin Hatemi çevirisinin çok daha iyi olduğunu
+duyuyorum.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="tr">
+		<title>Hmm</title>
+		<published>2011-07-07T00:00:00+00:00</published>
+		<updated>2011-07-07T00:00:00+00:00</updated>
+		<link href="https://roktas.dev/0/hmm/" type="text/html"/>
+		<id>https://roktas.dev/0/hmm/</id>
+		<content type="html">&lt;p&gt;Bugün farklı yerlerde bir kaç şey düşündüm. Evde: &amp;quot;Oda niye bu kadar dağınık?&amp;quot;, arabada: &amp;quot;Yürürken de bu kadar dikkatli
+misin?&amp;quot;  Zihin gürültüsü mü desek bunlara, &amp;quot;sorgulama&amp;quot; mı?  (bu da üçüncü soru oldu)  Adı her neyse kemikleşmiş bir
+alışkanlık bu. Anormal vehimlerden, kuşkulardan bahsetmiyorum, yukarıdaki soruların hiç birinde &amp;quot;kuşku&amp;quot; yok, merak var.
+Kesif bir içe bakışı gizleyen masum (!) sorular...&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;quot;Oda niye dağınık?&amp;quot;  Misal, bazı nefret hallerinin gizli bir muhabbete işaret etmesi gibi, bu dağınıklık da gizli bir
+düzen idealine işaret ediyor. Buna benzer bir cevap verdim. Sonra kendimi bir roman kahramanı olarak düşledim.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bay R odasında nicedir gözlediği dağınıklığı ortadan kaldırmak yönünde hiçbir gayret sarfetmemesinin nedenleri
+üzerinde düşünürken kahvaltısını tamamlamak üzereydi. Bunun keyifli bir soru olduğunu hissetti. Daima ihtiyaçtan fazla
+miktarda demlediği taze çaydan bir bardak daha alırken &amp;quot;mükemmeliyet iştiyakı&amp;quot; diye mırıldandı. Odanın entropisi dahil
+pek çok şeyi ideal (ve tanım olarak mükemmel) bir geleceğe ertelediğini farketti.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&amp;quot;Yürürken de bu kadar dikkatli misin?&amp;quot;  Bu kadar değil ama evet, dikkatliyim. Kalabalıkları sevmiyorum; insan sevmediği
+yerlerde dikkatli oluyor. Bu cevap kesmedi fakat. Yine eski bir alışkanlık... Bir probleme önerilen ilk çözüm yeterli
+bulunmadığında yeni çözümlerin arayışına girişmeden önce sorunun yasallığını veya nasıl diyelim, bizim gençlerden
+birinin tabiriyle &amp;quot;sorulabilitesi&amp;quot;ni sorgulamak lazım. Zira çözüm arayışıyla ilerleyeceğiniz yorucu güzergaha çıkmadan
+önce yeterli motivasyonunuz olmalı. Yani, yürürken de bu kadar dikkatli olup olmadığımı neden soruyorum?&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Gözü devir göstergesinde, kulağı motor sesindeyken tüm duyu organlarının bu olağan sürüş eylemine odaklanmış
+olmasından rahatsız oldu. Bu rahatsızlığı bir nebze gidermek için yürürken de bu kadar dikkatli olup olmadığını sordu
+kendine. Yolda yürümek de araç sürmek gibi öteki dünyayla temas kurma zorunluluğundan kaynaklanan eylemler olduğuna
+göre: &amp;quot;öteki tehlikelidir, evet yürürken de dikkatliyim&amp;quot; diye düşündü. Sonra, direksiyondaki acemiliğini böyle küçük
+bir zihin oyunuyla bastırmanın verdiği geçici bir öz güvenle gaza bastı. Beşinci vites... İşte en tepede.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Önümüz hafta izne ayrılıyorum. Tatilde ne yapacağız?  Edebiyat parçalıyoruz ya, yapmaya başladık bile. Kitlelerin (!)
+çağrısına kulak verdim, okumak yerine yazmak istiyorum biraz. &amp;quot;Üstadlar okumazlar, yazarlar!&amp;quot;  Muazzez kaarilerime
+duyurulur, iki dilde yazmaya niyetliyim: Türkçe ve Go. Go&#x27;da nesne yönelimli programlama çok lezzetli bir konu olarak
+duruyor. Güz yarıyılı &amp;quot;Programlama Dilleri&amp;quot; dersinde güzel servis edilir bu.&lt;&#x2F;p&gt;
+&lt;p&gt;Ama bu ortamda siparişler daima &amp;quot;ortaya bir karışık&amp;quot; türünde olacak. Masamda bir kitap var: Strunk ve White&#x27;tan &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;http:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;The_Elements_of_Style&quot;&gt;&amp;quot;The
+Elements of Style&amp;quot;&lt;&#x2F;a&gt;. İngilizce&#x27;de doğru ve güzel yazmanın
+kurallarını 80 sayfada özetleyen bir klasik (lüzumsuz &amp;quot;traş&amp;quot;tan kaçınan ince kitaplara bayılıyorum, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;http:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;The_C_Programming_Language&quot;&gt;&amp;quot;The C Programming
+Language&amp;quot;&lt;&#x2F;a&gt; bir başka örnek). Arada buna bakıyorum, &amp;quot;okumak
+yerine yaz&amp;quot; kararından şüphe duyarak... Bir ara yol olarak acaba bu kitaptaki kuralları Türkçe&#x27;ye uyarlayarak mı yazsam
+veya doğrudan kitabı Türkçe&#x27;ye uyarlasam?  Hani Can Yücel&#x27;in Şekspir&#x27;in 66&#x27;ncı sonesine uyguladığı asimilasyon gibi...&lt;&#x2F;p&gt;
+&lt;pre class=&quot;z-code&quot;&gt;&lt;code&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Vazgeçtim bu dünyadan tek ölüm paklar beni,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Değmez bu yangın yeri, avuç açmaya değmez.
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Değil mi ki çiğnenmiş inancın en seçkini,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Değil mi ki yoksullar mutluluktan habersiz,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Değil mi ki ayaklar altında insan onuru,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        O kızoğlan kız erdem dağlara kaldırılmış,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Ezilmiş, horgörülmüş el emeği, göz nuru,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Ödlekler geçmiş başa, derken mertlik bozulmuş,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Değil mi ki korkudan dili bağlı sanatın,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Değil mi ki çılgınlık sahip çıkmış düzene,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Doğruya doğru derken eğriye çıkmış adın,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Değil mi ki kötüler kadı olmuş Yemen&amp;#39;e
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Vazgeçtim bu dünyadan, dünyamdan geçtim ama,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        Seni yalnız komak var, o koyuyor adama.
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&amp;quot;And captive good attending captain ill&amp;quot;i, &amp;quot;Değil mi ki kötüler kadı olmuş Yemen&#x27;e&amp;quot; satırıyla karşılayan bu çeviriye
+&amp;quot;çeviri&amp;quot; demek haksızlık olur.&lt;&#x2F;p&gt;
+&lt;p&gt;Neyse böyle bir uyarlama ne haddimize, bunu geçelim...&lt;&#x2F;p&gt;
+&lt;p&gt;Evet izne ayrılıyorum. Geçen her gün ormanda yürürken yanından geçtiğimiz bir ağaç gibi. Ağaçlarla ilgilenirken ormanı
+ıskalamaya başladık sanki. Verilerin konsolidasyonu gerekiyor, rutin bir işlem. Bir sonraki güne kadar dükkanı
+kapatırken alınan bir &amp;quot;Z raporu&amp;quot; gibi.&lt;&#x2F;p&gt;
+&lt;p&gt;Ha bir de... Okuma kolajları yapsak mı?  Fikir muhterem kardeşim &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;http:&#x2F;&#x2F;www.facebook.com&#x2F;bsahaf&quot;&gt;Bahtiyar&lt;&#x2F;a&gt;&#x27;dan. Ahmet
+Hamdi Tanpınar&#x27;ın &amp;quot;Huzur&amp;quot;undan iktibaslar yapıyor şu günlerde.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;O gün akşama kadar bekledi. Ertesi gün de... Nuran gelmedi!  Mümtaz artık, O’nun gerçekte var olmadığını, bütün
+yaşadıklarının muhayyilesinin kendisine bir oyunu olduğunu düşünmeye başladı.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Postmodern zamanlar bunlar. Bravo!  Feysbuk böyle kullanılmalı.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="tr">
+		<title>Bayram</title>
+		<published>2007-11-01T00:00:00+00:00</published>
+		<updated>2007-11-01T00:00:00+00:00</updated>
+		<link href="https://roktas.dev/1/bayram/" type="text/html"/>
+		<id>https://roktas.dev/1/bayram/</id>
+		<content type="html">&lt;p&gt;Efendim, bir bayram daha geldi çattı ve, adet olduğu üzre, kendimizi bayram arefesindeki &lt;em&gt;prokrastinasyonal&lt;&#x2F;em&gt;, yani nasıl
+derler, &amp;quot;yapılmasa da olur, ama yapacağım&amp;quot; nev&#x27;inden meşgaleler arar hâlde bulduk. Bu jurnal cümlelerine hasbel kader
+gözü takılan cümle cemaatin Ramazan bayramını kutlayalım evveliyetle.&lt;&#x2F;p&gt;
+&lt;p&gt;Kuşların getirdiği kimi haberler sayesinde, memleketin muhtelif medreselerinde verilmekte olan &lt;strong&gt;&lt;code&gt;C&lt;&#x2F;code&gt;&lt;&#x2F;strong&gt; derslerinde bizce
+&amp;quot;konayo&amp;quot; olarak bilinen, ecnebicesi &lt;code&gt;conio.h&lt;&#x2F;code&gt; olan &lt;em&gt;taşınamazların&lt;&#x2F;em&gt;, dersleri deruhte eden muallimler indinde &lt;em&gt;musallat&lt;&#x2F;em&gt;
+bir fikri sabite inkılâp ettiğini esefle öğrenmiş bulunmaktayım. Tabii ki bu mezalimde, inançları hilafında bir makama
+râm olmak durumunda kalan istiklâl ve istikbal sahibi talebelerin haykırışlarına (ki cihan şümul bir mahiyet arz ettiği
+kat&#x27;i olan bu çığlıkları sizin de &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;http:&#x2F;&#x2F;www.google.com.tr&#x2F;search?q=%28getch+%7C+conio.h%29+linux&quot;&gt;duymanız&lt;&#x2F;a&gt; pek
+mümkün) kulaklarımı tıkayamazdım. Ez-cümle işte o &amp;quot;bayram arefesi eğlencelik demler&amp;quot;e konumlandırdığımız mütevazı bir
+çalışmanın neticesi olarak &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;people.debian.org&#x2F;~roktas&#x2F;debian&#x2F;pool&#x2F;main&#x2F;c&#x2F;course-goodies&#x2F;&quot;&gt;&lt;code&gt;course-goodies&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; yaşca
+bendenizden küçük bu kardeşlerime bir bayram hediyesi olsun bakalım.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;txt&quot; class=&quot;language-txt z-code&quot;&gt;&lt;code class=&quot;language-txt&quot; data-lang=&quot;txt&quot;&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;Package: course-goodies
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;Architecture: all
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;Description: Course goodies for C&#x2F;C++ language courses
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt; Nothing interesting here; only a few source files, notably &amp;#39;conio.h&amp;#39;,
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt; to allow FLOSS-minded students to &amp;#39;getch&amp;#39; or &amp;#39;kbhit&amp;#39; while studying
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt; some examples dictated by some lecturers.
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Marifetlerini ifade etmeye birkaç satırın kâfi geleceğini de düşünmekteyim:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;sh&quot; class=&quot;language-sh z-code&quot;&gt;&lt;code class=&quot;language-sh&quot; data-lang=&quot;sh&quot;&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-shell&quot;&gt;&lt;span class=&quot;z-variable z-function z-shell&quot;&gt;$&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt; cat &lt;span class=&quot;z-keyword z-operator z-assignment z-redirection z-shell&quot;&gt;&amp;gt;&lt;&#x2F;span&gt;t.c &lt;span class=&quot;z-string z-unquoted z-heredoc z-shell&quot;&gt;&lt;span class=&quot;z-keyword z-operator z-assignment z-redirection z-shell&quot;&gt;&amp;lt;&amp;lt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin z-shell&quot;&gt;&amp;#39;&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword z-control z-heredoc-token z-shell&quot;&gt;EOF&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-end z-shell&quot;&gt;&amp;#39;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-string z-unquoted z-heredoc z-shell&quot;&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt;&lt;span class=&quot;z-string z-unquoted z-heredoc z-shell&quot;&gt;#include &amp;lt;stdio.h&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt;&lt;span class=&quot;z-string z-unquoted z-heredoc z-shell&quot;&gt;#include &amp;lt;conio.h&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt;&lt;span class=&quot;z-string z-unquoted z-heredoc z-shell&quot;&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt;&lt;span class=&quot;z-string z-unquoted z-heredoc z-shell&quot;&gt;int main(void)
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt;&lt;span class=&quot;z-string z-unquoted z-heredoc z-shell&quot;&gt;{
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt;&lt;span class=&quot;z-string z-unquoted z-heredoc z-shell&quot;&gt;        &#x2F;* falan filan *&#x2F;
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt;&lt;span class=&quot;z-string z-unquoted z-heredoc z-shell&quot;&gt;        printf(&amp;quot;Bastırın herhangi bir tuşa devam etmek için...\n&amp;quot;);
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt;&lt;span class=&quot;z-string z-unquoted z-heredoc z-shell&quot;&gt;        getch();
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt;&lt;span class=&quot;z-string z-unquoted z-heredoc z-shell&quot;&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt;&lt;span class=&quot;z-string z-unquoted z-heredoc z-shell&quot;&gt;        return 0;
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt;&lt;span class=&quot;z-string z-unquoted z-heredoc z-shell&quot;&gt;}
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt;&lt;span class=&quot;z-string z-unquoted z-heredoc z-shell&quot;&gt;&lt;span class=&quot;z-keyword z-control z-heredoc-token z-shell&quot;&gt;EOF&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-shell&quot;&gt;&lt;span class=&quot;z-variable z-function z-shell&quot;&gt;$&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt; gcc&lt;span class=&quot;z-variable z-parameter z-option z-shell&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-parameter z-shell&quot;&gt; -&lt;&#x2F;span&gt;o&lt;&#x2F;span&gt; t t.c&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-shell&quot;&gt;&lt;span class=&quot;z-variable z-function z-shell&quot;&gt;In&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt; file included from t.c:2:&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-shell&quot;&gt;&lt;span class=&quot;z-variable z-function z-shell&quot;&gt;&#x2F;usr&#x2F;include&#x2F;conio.h:4:2:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt; ... &lt;span class=&quot;z-string z-quoted z-double z-shell&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin z-shell&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;using &amp;#39;conio.h&amp;#39; is using a non-standard or vendor&lt;span class=&quot;z-punctuation z-definition z-string z-end z-shell&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-shell&quot;&gt;&lt;span class=&quot;z-variable z-function z-shell&quot;&gt;&#x2F;usr&#x2F;include&#x2F;conio.h:5:2:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt; ... &lt;span class=&quot;z-string z-quoted z-double z-shell&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin z-shell&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;spesific or non-portable feature (whatever you prefer),&lt;span class=&quot;z-punctuation z-definition z-string z-end z-shell&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-shell&quot;&gt;&lt;span class=&quot;z-variable z-function z-shell&quot;&gt;&#x2F;usr&#x2F;include&#x2F;conio.h:6:2:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt; ... &lt;span class=&quot;z-string z-quoted z-double z-shell&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin z-shell&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;please do use a more portable lib (e.g. ncurses)&lt;span class=&quot;z-punctuation z-definition z-string z-end z-shell&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-shell&quot;&gt;&lt;span class=&quot;z-variable z-function z-shell&quot;&gt;&#x2F;usr&#x2F;include&#x2F;conio.h:7:2:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt; ... &lt;span class=&quot;z-string z-quoted z-double z-shell&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin z-shell&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;this is only a partial implementation of &amp;#39;conio.h&amp;#39;&lt;span class=&quot;z-punctuation z-definition z-string z-end z-shell&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-shell&quot;&gt;&lt;span class=&quot;z-variable z-function z-shell&quot;&gt;$&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt; .&#x2F;t&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-shell&quot;&gt;&lt;span class=&quot;z-variable z-function z-shell&quot;&gt;Bastırın&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt; herhangi bir tuşa devam etmek için...&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Bir zamandır tercüme vesair işlerle de üstünüze afiyet pek uğraşamıyorum, binaenaleyh yukarıda iktibas ettiğim
+tercümelerin kalite murakabesini de işbu satırları buraya kadar okuma zahmetinde bulunmuş muazzez kaarilerime
+bırakıyorum. Hayırlı bayramlar!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
